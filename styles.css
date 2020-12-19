@@ -1,0 +1,27 @@
+h1 {
+	font-family: Arial;
+	text-align: center;
+}
+
+.subtitle {
+	font-style: italic;
+	font-size: 25px;
+	color: grey;
+}
+
+.card {
+	padding-left: 10%;
+	float: left;
+}
+
+.card:hover {
+	background: yellow;
+}
+
+.vertical-line {
+	background: black;
+	width: 1px;
+}
+
+.row {
+}
